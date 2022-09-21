@@ -15,19 +15,11 @@ print('''
 
 
 urls = '''
-https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt
-https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
-https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt
-https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
+
 https://www.proxy-list.download/api/v1/get?type=socks4
 https://www.proxyscan.io/api/proxy?uptime=50&ping=1000&limit=100&type=socks4&format=txt
-https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
 https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&timeout=2000&country=all
-https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks4.txt
-https://raw.githubusercontent.com/RX4096/proxy-list/main/online/socks4.txt
-https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt
-https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks4.txt
-https://raw.githubusercontent.com/UptimerBot/proxy-list/main/proxies/socks4.txt
+
 '''
 
 
